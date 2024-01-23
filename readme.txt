@@ -50,7 +50,7 @@ https://github.com/bedimcode/portfolio-responsive-complete/tree/main
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 I went to my discussion and talked to the TA about the resources I was using to make sure it was acceptable and clarifyed instructions with other students near me in discussion.
-I also talked to the professor in class about validity checks for the site.
+I also talked to the professor in class and slack about validity checks for the site.
 
 
 6. Is there anything special we need to know in order to run your code?
