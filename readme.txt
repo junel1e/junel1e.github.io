@@ -10,40 +10,48 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/13
-- */1 Readme
-- */2 Basic HTML content
-- */2 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+13/13
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 2/2 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
-
+- There is multiple images all with descriptive alt text
+- I use appropriate headings and paragraph text with each section on the home page
+- There are links to external pages i.e. LinkedIn, Github
+- I made multiple pages for my works and there is appropriate navigation between them
+- There is a footer tag on every page
+- Custom icons are used on the home page and footer via boxicons.com
 
 (b) CSS features
-
-
+- Content is indented because the padding and margins are modified
+- The color of headings and other elements are modified to be the accent color
+- Table layouts are implemented to display content in a more interesting manner
 
 (c) Advanced features
-
+- A navigation bar is incorporated, and the presence of a sidebar on all pages is contingent upon the dimensions of the interface.
 
 
 3. How long, in hours, did it take you to complete this assignment?
-I started on Jan 10th with the intention of making the personal project my portfolio as a graphic designer.
+I've been meaning to make a portfolio for my designs for a long time so I worked to make the website my version of 'perfect'.
+I started on Jan 10th and worked on it on 8 separate days; I would estimate I worked 4-5 hours on it at a time so in total around 40 hrs.
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+https://youtu.be/AKNvTxWOdKw?si=ope_-eVOB0Mx_q9Q
+https://github.com/bedimcode/portfolio-responsive-complete/tree/main
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I went to my discussion and talked to the TA about the resources I was using to make sure it was acceptable and clarifyed instructions with other students near me in discussion.
+I also talked to the professor in class about validity checks for the site.
 
 
 6. Is there anything special we need to know in order to run your code?
-
+I don't believe so, if there's any disruptancies all work is identical to what is here: https://junel1e.github.io/
