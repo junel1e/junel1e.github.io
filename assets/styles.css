@@ -346,6 +346,16 @@ img {
 }
 
 /* ===== WORK =====*/
+.work__subtitle {
+    text-align: center;
+    margin-bottom: var(--mb-2);
+}
+
+.work__text {
+    text-align: center;
+    margin-bottom: var(--mb-4);
+
+}
 .work__container {
     row-gap: 2rem;
 }
